@@ -10,3 +10,4 @@
 * Retrofit
 * Gson
 * Jetpack compose
+* Navigation
